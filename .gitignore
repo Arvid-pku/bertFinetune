@@ -116,3 +116,4 @@ dmypy.json
 .pyre/
 
 bert-chinese/
+geddata/
